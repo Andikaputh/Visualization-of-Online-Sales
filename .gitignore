@@ -1,0 +1,6 @@
+# Byte-compiled files
+*.pyc
+__pycache__/
+
+# Data files
+data_penjualan.csv
